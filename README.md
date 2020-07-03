@@ -1,0 +1,2 @@
+# firstGitRimote
+test fetchand push
